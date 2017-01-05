@@ -197,6 +197,7 @@ This short section were prerequisites/interesting info I wanted to learn before 
 - [ ] [Deep Learning For Beginners](https://deeplearning4j.org/deeplearningforbeginners.html)
 - Machine Learning courses in Universities
     - [ ] [Stanford](http://ai.stanford.edu/courses/)
+        - [Andrew Ng Complete Course Notes](http://www.holehouse.org/mlclass)
     - [ ] [Machine Learning Summer Schools](http://mlss.cc/)
     - [ ] [Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
     - [ ] [Cambridge](http://mlg.eng.cam.ac.uk/)

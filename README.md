@@ -1,4 +1,5 @@
-# Top-down learning path: Machine Learning for Software Engineers
+# Top-down learning path:
+# Machine Learning for Software Engineers
 
 <p align="center">
   <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers">
@@ -14,13 +15,6 @@
 
 Forked from [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers).
 
-## Don't feel you aren't smart enough
-I get discouraged from books and courses that tell me as soon as I open them that multivariate calculus, inferential statistics and linear algebra are prerequisites. I still don’t know how to get started…
-
-- [What if I’m Not Good at Mathematics](http://machinelearningmastery.com/what-if-im-not-good-at-mathematics/)
-- [5 Techniques To Understand Machine Learning Algorithms Without the Background in Mathematics](http://machinelearningmastery.com/techniques-to-understand-machine-learning-algorithms-without-the-background-in-mathematics/)
-- [How do I learn machine learning?](https://www.quora.com/Machine-Learning/How-do-I-learn-machine-learning-1)
-
 ## About Video Resources
 
 Some videos are available only by enrolling in a Coursera or EdX class. It is free to do so, but sometimes the classes
@@ -35,9 +29,6 @@ This short section were prerequisites/interesting info I wanted to learn before 
 - [x] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [x] [Don’t Break The Chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
 - [x] [How to learn on your own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
-
-# Motivation
-- [x] [Dream](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
 
 ## Machine learning overview
 - [x] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)

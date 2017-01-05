@@ -65,7 +65,6 @@ This short section were prerequisites/interesting info I wanted to learn before 
 - [x] [Model evaluation, validation, complexity, and improvement](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-3/)
 - [x] [Model performance and error analysis](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-4/)
 - [x] [Unsupervised learning, related fields, and machine learning in practice](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-5/)
-- [ ] [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example)
 - [x] [Part 1: Machine Learning Crash Course](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1)
 - [x] [Part 2: Machine Learning Crash Course](https://ml.berkeley.edu/blog/2016/12/24/tutorial-2)
 
@@ -183,6 +182,7 @@ This short section were prerequisites/interesting info I wanted to learn before 
 
 ## Resources
 - [x] [Learning Machine Learning: A beginner's journey](http://muratbuffalo.blogspot.fi/2016/12/learning-machine-learning-beginners.html)
+- [ ] [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example)
 - [ ] [Learn Machine Learning in a Single Month](https://elitedatascience.com/machine-learning-masterclass)
 - [ ] [The Non-Technical Guide to Machine Learning & Artificial Intelligence](https://medium.com/@samdebrule/a-humans-guide-to-machine-learning-e179f43b67a0#.cpzf3a5c0)
 - [ ] [Machine Learning for Software Engineers on Hacker News](https://news.ycombinator.com/item?id=12898718)

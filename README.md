@@ -1,5 +1,4 @@
-# Top-down learning path:
-# Machine Learning for Software Engineers
+# Top-down Learning Path: ML for Software Engineers
 
 <p align="center">
   <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers">

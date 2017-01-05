@@ -136,7 +136,7 @@ This short section were prerequisites/interesting info I wanted to learn before 
     - [GitHub repository](https://github.com/BinRoot/TensorFlow-Book)
 
 ## Kaggle knowledge competitions
-- [ ] [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
+- [ ] :+1: [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
 - [x] [How a Beginner Used Small Projects To Get Started in Machine Learning and Compete on Kaggle](http://machinelearningmastery.com/how-a-beginner-used-small-projects-to-get-started-in-machine-learning-and-compete-on-kaggle)
 - [x] [Master Kaggle By Competing Consistently](http://machinelearningmastery.com/master-kaggle-by-competing-consistently/)
 

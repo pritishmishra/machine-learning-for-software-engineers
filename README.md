@@ -395,7 +395,3 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [What are the best interview questions to evaluate a machine learning researcher?](https://www.quora.com/What-are-the-best-interview-questions-to-evaluate-a-machine-learning-researcher)
 - [ ] [Collection of Machine Learning Interview Questions](http://analyticscosm.com/machine-learning-interview-questions-for-data-scientist-interview/)
 - [ ] [121 Essential Machine Learning Questions & Answers](https://learn.elitedatascience.com/mlqa-welcome)
-
-
-## My admired companies
-- [ ] [ELSA - Your virtual pronunciation coach](https://www.elsanow.io/home)

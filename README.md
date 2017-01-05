@@ -64,6 +64,9 @@ This short section were prerequisites/interesting info I wanted to learn before 
 - [x] [Model evaluation, validation, complexity, and improvement](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-3/)
 - [x] [Model performance and error analysis](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-4/)
 - [x] [Unsupervised learning, related fields, and machine learning in practice](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-5/)
+- Machine Learning Crash Course
+    - [x] [Part 1](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1)
+    - [x] [Part 2](https://ml.berkeley.edu/blog/2016/12/24/tutorial-2)
 
 ## Stories and experiences
 - [x] [Machine Learning in a Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.tk6ft2kcg)

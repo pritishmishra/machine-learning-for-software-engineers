@@ -156,7 +156,8 @@ Note: As a software engineer you have a major advantage for applied ML: You know
 - [x] [Master Kaggle By Competing Consistently](http://machinelearningmastery.com/master-kaggle-by-competing-consistently/)
 
 ## Video Series
-- [x] :+1: [Tensorflow and deep learning - without at PhD](https://www.youtube.com/watch?v=vq2nnJ4g6N0) (First 103 minutes builds up a convolutional neural network for handwritten digit classification while the rest focuses on RNN, but much less deep; watch at 130-150% speed)
+- [x] :+1: [Tensorflow and deep learning - without at PhD (Long Edition)](https://www.youtube.com/watch?v=vq2nnJ4g6N0) (First 103 minutes builds up a convolutional neural network for handwritten digit classification while the rest focuses on RNN, but much less deep; watch at 130-150% speed)
+- [ ] [Tensorflow and deep learning - without at PhD (Short Edition)](https://www.youtube.com/watch?v=sEciSlAClL8)
 - [ ] [Machine Learning for Hackers](https://www.youtube.com/playlist?list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj)
 - [ ] [Fresh Machine Learning](https://www.youtube.com/playlist?list=PL2-dafEMk2A6Kc7pV6gHH-apBFxwFjKeY)
 - [ ] [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
@@ -213,6 +214,7 @@ Note: As a software engineer you have a major advantage for applied ML: You know
     - [Slide](https://speakerdeck.com/pycon2014/enough-machine-learning-to-make-hacker-news-readable-again-by-ned-jackson-lovely)
 - [ ] [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
 - [ ] [{Machine, Deep} Learning for software engineers](https://speakerdeck.com/pmigdal/machine-deep-learning-for-software-engineers)
+- [ ] [Theano Tutorial](http://deeplearning.net/software/theano/tutorial/index.html)
 - [ ] [Deep Learning For Beginners](https://deeplearning4j.org/deeplearningforbeginners.html)
 - Machine Learning courses in Universities
     - [ ] [Stanford](http://ai.stanford.edu/courses/)

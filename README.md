@@ -203,7 +203,7 @@ Note: As a software engineer you have a major advantage for applied ML: You know
 - [x] [Machine Learning for Software Engineers on Hacker News](https://news.ycombinator.com/item?id=12898718)
 - [x] [Machine Learning for Developers](https://xyclade.github.io/MachineLearning/) 
 - [x] [Machine Learning Advice for Developers](https://dev.to/thealexlavin/machine-learning-advice-for-developers)
-- [x] [Machine Learning For Complete Beginners](http://pythonforengineers.com/machine-learning-for-complete-beginners/) (Nice live, though a bit clunky, first analysis of the Titanic data set in a Jupyter notebook)
+- [x] [Machine Learning For Complete Beginners](http://pythonforengineers.com/machine-learning-for-complete-beginners/) (Nice live, though somewhat clunky, initial analysis of the Titanic data set using a Jupyter notebook)
 - [x] [Getting Started with Machine Learning: For absolute beginners and fifth graders](https://medium.com/@suffiyanz/getting-started-with-machine-learning-f15df1c283ea#.yjtiy7ei9)
 - [ ] [How to Learn Machine Learning: The Self-Starter Way](https://elitedatascience.com/learn-machine-learning)
 - [ ] [Machine Learning Self-study Resources](https://ragle.sanukcode.net/articles/machine-learning-self-study-resources/)

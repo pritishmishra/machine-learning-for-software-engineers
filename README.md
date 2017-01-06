@@ -244,7 +244,7 @@ Note: As a software engineer you have a major advantage for applied ML: You know
 - [DigitalMind's Artificial Intelligence resources](http://blog.digitalmind.io/post/artificial-intelligence-resources)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [CreativeAi's Machine Learning](http://www.creativeai.net/?cat%5B0%5D=machine-learning)
-- [Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+- [Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 
 ## Games
 - [Halite: A.I. Coding Game](https://halite.io/)

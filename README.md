@@ -141,7 +141,7 @@ This short section were prerequisites/interesting info I wanted to learn before 
 - Learn Python stack: scipy, numpy, pandas, scikit-learn, jupyter, matplotlib/seaborn.
 - Learn machine learning tools: XGBoost, Scikit-learn, Keras, Vowpal Wabbit.
 - Do data science competitions: Kaggle, DrivenData, TopCoder, Numerai.
-- Take these courses: https://www.coursera.org/learn/machine-learning http://work.caltech.edu/telecourse.html
+- Take these courses: https://www.coursera.org/learn/machine-learning, http://work.caltech.edu/telecourse.html
 - Work on soft skills: Business, management, visualization, reporting.
 - Do at least one real-life data science project: Open Data, Journalism, Pet project.
 - Contribute to community: Create wrappers, open issues/pull reqs, write tutorials, write about projects.

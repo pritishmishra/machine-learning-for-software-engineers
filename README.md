@@ -156,7 +156,7 @@ Note: As a software engineer you have a major advantage for applied ML: You know
 - [x] [Master Kaggle By Competing Consistently](http://machinelearningmastery.com/master-kaggle-by-competing-consistently/)
 
 ## Video Series
-- [x] :+1: [Tensorflow and deep learning - without at PhD](https://www.youtube.com/watch?v=vq2nnJ4g6N0) (First 103 minutes builds up a convolutional neural network for handwritten digit classification while the rest focuses on RNN, but much less deep; watch at 130-150% speed)
+- [x] :+1: [Tensorflow and deep learning - without at PhD](https://www.youtube.com/watch?v=vq2nnJ4g6N0) (First 103 minutes builds up a convolutional neural network for handwritten digit classification while the rest focuses on RNN, but much less deep; watch at 130-150% speed; the guy is a bit strange, but if you follow along, you learn interessting tricks how to improve your accuracy)
 - [x] [Tensorflow and deep learning - without at PhD](https://www.youtube.com/watch?v=sEciSlAClL8) (Short edition of above talk without batch normalization and RNNs)
 - [ ] [Machine Learning for Hackers](https://www.youtube.com/playlist?list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj)
 - [ ] [Fresh Machine Learning](https://www.youtube.com/playlist?list=PL2-dafEMk2A6Kc7pV6gHH-apBFxwFjKeY)

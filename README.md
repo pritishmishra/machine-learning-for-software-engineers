@@ -136,6 +136,20 @@ This short section were prerequisites/interesting info I wanted to learn before 
 - [Machine Learning with TensorFlow(MEAP)](https://www.manning.com/books/machine-learning-with-tensorflow)
     - [GitHub repository](https://github.com/BinRoot/TensorFlow-Book)
 
+## [Advice by BickNowstrom](https://news.ycombinator.com/vote?id=12902244&how=up&goto=item%3Fid%3D12898718)
+
+- Learn Python stack: scipy, numpy, pandas, scikit-learn, jupyter, matplotlib/seaborn.
+- Learn machine learning tools: XGBoost, Scikit-learn, Keras, Vowpal Wabbit.
+- Do data science competitions: Kaggle, DrivenData, TopCoder, Numerai.
+- Take these courses: https://www.coursera.org/learn/machine-learning http://work.caltech.edu/telecourse.html
+- Work on soft skills: Business, management, visualization, reporting.
+- Do at least one real-life data science project: Open Data, Journalism, Pet project.
+- Contribute to community: Create wrappers, open issues/pull reqs, write tutorials, write about projects.
+- Read: FastML, /r/MachineLearning, Kaggle Forums, Arxiv Sanity Preserver.
+- Implement: Recent papers, older algorithms, winning solutions.
+
+Note: As a software engineer you have a major advantage for applied ML: You know how to code. AI is just Advanced Informatics. If you want to become a machine learning researcher... skip all this and start from scratch: a PhD. Else: Learn by doing. Only those who got burned by overfit, will know how to avoid it next time.
+
 ## Kaggle knowledge competitions
 - [ ] :+1: [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
 - [x] [How a Beginner Used Small Projects To Get Started in Machine Learning and Compete on Kaggle](http://machinelearningmastery.com/how-a-beginner-used-small-projects-to-get-started-in-machine-learning-and-compete-on-kaggle)
@@ -185,7 +199,7 @@ This short section were prerequisites/interesting info I wanted to learn before 
 - [x] :+1: [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example)
 - [x] :-1: [Learn Machine Learning in a Single Month](https://elitedatascience.com/machine-learning-masterclass)
 - [x] [The Non-Technical Guide to Machine Learning & Artificial Intelligence](https://medium.com/@samdebrule/a-humans-guide-to-machine-learning-e179f43b67a0#.cpzf3a5c0)
-- [ ] [Machine Learning for Software Engineers on Hacker News](https://news.ycombinator.com/item?id=12898718)
+- [x] [Machine Learning for Software Engineers on Hacker News](https://news.ycombinator.com/item?id=12898718)
 - [x] [Machine Learning for Developers](https://xyclade.github.io/MachineLearning/) 
 - [x] [Machine Learning Advice for Developers](https://dev.to/thealexlavin/machine-learning-advice-for-developers)
 - [ ] [Machine Learning For Complete Beginners](http://pythonforengineers.com/machine-learning-for-complete-beginners/)

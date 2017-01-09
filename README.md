@@ -218,6 +218,7 @@ Note: As a software engineer you have a major advantage for applied ML: You know
 - [ ] [Deep Learning For Beginners](https://deeplearning4j.org/deeplearningforbeginners.html)
 - Machine Learning courses in Universities
     - [ ] [Stanford](http://ai.stanford.edu/courses/)
+        - [Deep Learning Tutorial](http://deeplearning.stanford.edu/tutorial)
         - [Andrew Ng Complete Course Notes](http://www.holehouse.org/mlclass)
     - [ ] [Machine Learning Summer Schools](http://mlss.cc/)
     - [ ] [Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)

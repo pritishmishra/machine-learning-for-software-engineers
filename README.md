@@ -158,8 +158,8 @@ Note: As a software engineer you have a major advantage for applied ML: You know
 ## Video Series
 - [x] :+1: [Tensorflow and deep learning - without at PhD](https://www.youtube.com/watch?v=vq2nnJ4g6N0) (First 103 minutes builds up a convolutional neural network for handwritten digit classification while the rest focuses on RNN, but much less deep; watch at 130-150% speed; the guy is a bit strange, but if you follow along, you learn interessting tricks how to improve your accuracy)
 - [x] [Tensorflow and deep learning - without at PhD](https://www.youtube.com/watch?v=sEciSlAClL8) (Short edition of above talk without batch normalization and RNNs)
-- [ ] [Machine Learning for Hackers](https://www.youtube.com/playlist?list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj)
-- [ ] [Fresh Machine Learning](https://www.youtube.com/playlist?list=PL2-dafEMk2A6Kc7pV6gHH-apBFxwFjKeY)
+- [x] [Machine Learning for Hackers](https://www.youtube.com/playlist?list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj) (Actually, funny knowledgeable young guy, though deliberately superficial, which seems to be his (chosen) "format" for his series nonetheless)
+- [x] [Fresh Machine Learning](https://www.youtube.com/playlist?list=PL2-dafEMk2A6Kc7pV6gHH-apBFxwFjKeY) (The very same guy from above)
 - [ ] [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 - [ ] [Everything You Need to know about Machine Learning in 30 Minutes or Less](https://vimeo.com/43547079)
 - [ ] [A Friendly Introduction to Machine Learning](https://www.youtube.com/watch?v=IpGxLWOIZy4)

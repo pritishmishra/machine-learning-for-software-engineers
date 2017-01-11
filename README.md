@@ -186,17 +186,16 @@ Note: As a software engineer you have a major advantage for applied ML: You know
     - [ ] [Supervised, Unsupervised & Reinforcement](https://www.udacity.com/course/machine-learning--ud262)
     - [ ] [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
     - [ ] [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+- Coursera
+    - [ ] [Andrew Ng Machine Learning](https://www.coursera.org/learn/machine-learning) ([Review](https://rayli.net/blog/data/coursera-machine-learning-review/), [Roadmap](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement), [Videos Only](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW))
+    - [ ] [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)
+    - [ ] [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
+    - Taught by Geoffrey Hinton, a pioneer in the field of neural networks
 - [Stanford](http://ai.stanford.edu/courses/)
     - [ ] [Deep Learning Tutorial](http://deeplearning.stanford.edu/tutorial) ([Andrew Ng Complete Course Notes](http://www.holehouse.org/mlclass))
 - [ ] [Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 - [ ] [Cambridge](http://mlg.eng.cam.ac.uk/)
 - [ ] [Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) (Last updated 4 years ago)
-- [ ] Coursera
-    - [ ] [Andrew Ng Machine Learning](https://www.coursera.org/learn/machine-learning) ([Review](https://rayli.net/blog/data/coursera-machine-learning-review/), [Roadmap](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement), [Videos Only](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW))
-    - [ ] [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)
-    - [ ] [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
-    - Taught by Geoffrey Hinton, a pioneer in the field of neural networks
-- [ ] [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
 
 ## Resources
 - [x] [Learning Machine Learning: A beginner's journey](http://muratbuffalo.blogspot.fi/2016/12/learning-machine-learning-beginners.html)

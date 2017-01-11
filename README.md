@@ -227,6 +227,11 @@ Note: As a software engineer you have a major advantage for applied ML: You know
 - [x] [Python, Machine Learning, and Language Wars](https://sebastianraschka.com/blog/2015/why-python.html)
 - [x] [Deep Learning For Beginners](https://deeplearning4j.org/deeplearningforbeginners.html)
 - [Theano Tutorial](http://deeplearning.net/software/theano/tutorial/index.html)
+- [Comprehensive list of data science resources](http://www.datasciencecentral.com/group/resources/forum/topics/comprehensive-list-of-data-science-resources)
+- [DigitalMind's Artificial Intelligence resources](http://blog.digitalmind.io/post/artificial-intelligence-resources)
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [CreativeAi's Machine Learning](http://www.creativeai.net/?cat%5B0%5D=machine-learning)
+- [Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 - Flipboard Topics
     - [Machine learning](https://flipboard.com/topic/machinelearning)
     - [Deep learning](https://flipboard.com/topic/deeplearning)
@@ -245,11 +250,6 @@ Note: As a software engineer you have a major advantage for applied ML: You know
     - Algorithms
         - [September 2016](https://medium.mybridge.co/algorithm-top-10-articles-in-september-8a0e6afb0807#.hgjzuyxdb)
         - [October-November 2016](https://medium.mybridge.co/algorithm-top-10-articles-v-november-e73cba2fa87e#.kothimkhb)
-- [Comprehensive list of data science resources](http://www.datasciencecentral.com/group/resources/forum/topics/comprehensive-list-of-data-science-resources)
-- [DigitalMind's Artificial Intelligence resources](http://blog.digitalmind.io/post/artificial-intelligence-resources)
-- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-- [CreativeAi's Machine Learning](http://www.creativeai.net/?cat%5B0%5D=machine-learning)
-- [Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 
 ## Games
 - [Halite: A.I. Coding Game](https://halite.io/)

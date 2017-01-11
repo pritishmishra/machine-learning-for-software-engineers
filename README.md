@@ -184,6 +184,8 @@ Note: As a software engineer you have a major advantage for applied ML: You know
 - Udacity
     - [ ] :+1: [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) ([Review](http://hamelg.blogspot.com/2014/12/udacity-intro-to-machine-learning-review.html))
     - [ ] [Supervised, Unsupervised & Reinforcement](https://www.udacity.com/course/machine-learning--ud262)
+    - [ ] [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+    - [ ] [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 - [Stanford](http://ai.stanford.edu/courses/)
     - [ ] [Deep Learning Tutorial](http://deeplearning.stanford.edu/tutorial) ([Andrew Ng Complete Course Notes](http://www.holehouse.org/mlclass))
 - [ ] [Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
@@ -194,10 +196,7 @@ Note: As a software engineer you have a major advantage for applied ML: You know
     - [ ] [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)
     - [ ] [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
     - Taught by Geoffrey Hinton, a pioneer in the field of neural networks
-- [ ] [Machine Learning - CS - Oxford University](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 - [ ] [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
-- [ ] [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
-- [ ] [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 
 ## Resources
 - [x] [Learning Machine Learning: A beginner's journey](http://muratbuffalo.blogspot.fi/2016/12/learning-machine-learning-beginners.html)

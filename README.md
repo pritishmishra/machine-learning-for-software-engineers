@@ -167,7 +167,7 @@ Note: As a software engineer you have a major advantage for applied ML: You know
 - [x] BigML Webinar
     - [Video](https://www.youtube.com/watch?list=PL1bKyu9GtNYHcjGa6ulrvRVcm1lAB8he3&v=W62ehrnOVqo)
     - [Resources](https://bigml.com/releases)
-- [ ] [mathematicalmonk's Machine Learning tutorials](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
+- [x] [mathematicalmonk's Machine Learning tutorials](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA) (Very exhaustive collection of brief sessions (160) on ML algorithms/concepts, but fairly outdated by 6 years)
 - [ ] [Machine learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
     - [GitHub repository](https://github.com/justmarkham/scikit-learn-videos)
     - [Blog](http://blog.kaggle.com/author/kevin-markham/)

@@ -207,6 +207,8 @@ Note: As a software engineer you have a major advantage for applied ML: You know
 - [x] [Getting Started with Machine Learning: For absolute beginners and fifth graders](https://medium.com/@suffiyanz/getting-started-with-machine-learning-f15df1c283ea#.yjtiy7ei9)
 - [x] [How to Learn Machine Learning: The Self-Starter Way](https://elitedatascience.com/learn-machine-learning)
 - [x] [Machine Learning Self-study Resources](https://ragle.sanukcode.net/articles/machine-learning-self-study-resources/)
+- [x] [5 Tasty Python Web Scraping Libraries](https://elitedatascience.com/python-web-scraping-libraries)
+- [x] [Data Science Ipython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 - [x] [Level-Up Your Machine Learning](https://metacademy.org/roadmaps/cjrd/level-up-your-ml)
 - [x] [An Honest Guide to Machine Learning](https://medium.com/axiomzenteam/an-honest-guide-to-machine-learning-2f6d7a6df60e#.ib12a1yw5)
 - [x] Enough Machine Learning to Make Hacker News Readable Again

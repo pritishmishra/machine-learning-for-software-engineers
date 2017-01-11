@@ -163,8 +163,8 @@ Note: As a software engineer you have a major advantage for applied ML: You know
 - [x] [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) (Google guy)
 - [x] [Everything You Need to know about Machine Learning in 30 Minutes or Less](https://vimeo.com/43547079) (Fairly outdated by 4 years)
 - [x] [A Friendly Introduction to Machine Learning](https://www.youtube.com/watch?v=IpGxLWOIZy4)
-- [ ] [Nuts and Bolts of Applying Deep Learning - Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
-- [ ] BigML Webinar
+- [x] [Nuts and Bolts of Applying Deep Learning - Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
+- [x] BigML Webinar
     - [Video](https://www.youtube.com/watch?list=PL1bKyu9GtNYHcjGa6ulrvRVcm1lAB8he3&v=W62ehrnOVqo)
     - [Resources](https://bigml.com/releases)
 - [ ] [mathematicalmonk's Machine Learning tutorials](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)

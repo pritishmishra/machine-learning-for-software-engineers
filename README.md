@@ -183,6 +183,12 @@ Note: As a software engineer you have a major advantage for applied ML: You know
 ## MOOC
 - [ ] :+1: [Udacity’s Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) ([Review](http://hamelg.blogspot.com/2014/12/udacity-intro-to-machine-learning-review.html))
 - [ ] [Udacity’s Supervised, Unsupervised & Reinforcement](https://www.udacity.com/course/machine-learning--ud262)
+- [ ] [Stanford](http://ai.stanford.edu/courses/)
+    - [Deep Learning Tutorial](http://deeplearning.stanford.edu/tutorial)
+    - [Andrew Ng Complete Course Notes](http://www.holehouse.org/mlclass)
+- [ ] [Machine Learning Summer Schools](http://mlss.cc/)
+- [ ] [Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+- [ ] [Cambridge](http://mlg.eng.cam.ac.uk/)
 - [ ] [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) (Last updated 4 years ago)
 - [ ] [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)
 - [ ] [Coursera’s Machine Learning](https://www.coursera.org/learn/machine-learning)
@@ -221,13 +227,6 @@ Note: As a software engineer you have a major advantage for applied ML: You know
 - [x] [Python, Machine Learning, and Language Wars](https://sebastianraschka.com/blog/2015/why-python.html)
 - [x] [Deep Learning For Beginners](https://deeplearning4j.org/deeplearningforbeginners.html)
 - [Theano Tutorial](http://deeplearning.net/software/theano/tutorial/index.html)
-- Machine Learning courses in Universities
-    - [ ] [Stanford](http://ai.stanford.edu/courses/)
-        - [Deep Learning Tutorial](http://deeplearning.stanford.edu/tutorial)
-        - [Andrew Ng Complete Course Notes](http://www.holehouse.org/mlclass)
-    - [ ] [Machine Learning Summer Schools](http://mlss.cc/)
-    - [ ] [Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
-    - [ ] [Cambridge](http://mlg.eng.cam.ac.uk/)
 - Flipboard Topics
     - [Machine learning](https://flipboard.com/topic/machinelearning)
     - [Deep learning](https://flipboard.com/topic/deeplearning)

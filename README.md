@@ -181,8 +181,9 @@ Note: As a software engineer you have a major advantage for applied ML: You know
     - [Blog](http://blog.kaggle.com/author/kevin-markham/)
 
 ## MOOC
-- [ ] :+1: [Udacity’s Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) ([Review](http://hamelg.blogspot.com/2014/12/udacity-intro-to-machine-learning-review.html))
-- [ ] [Udacity’s Supervised, Unsupervised & Reinforcement](https://www.udacity.com/course/machine-learning--ud262)
+- [ ] Udacity
+    - [ ] :+1: [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) ([Review](http://hamelg.blogspot.com/2014/12/udacity-intro-to-machine-learning-review.html))
+    - [ ] [Supervised, Unsupervised & Reinforcement](https://www.udacity.com/course/machine-learning--ud262)
 - [ ] [Stanford](http://ai.stanford.edu/courses/)
     - [Deep Learning Tutorial](http://deeplearning.stanford.edu/tutorial)
     - [Andrew Ng Complete Course Notes](http://www.holehouse.org/mlclass)
@@ -190,10 +191,9 @@ Note: As a software engineer you have a major advantage for applied ML: You know
 - [ ] [Cambridge](http://mlg.eng.cam.ac.uk/)
 - [ ] [Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) (Last updated 4 years ago)
 - [ ] Coursera
-    - [ ] [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)
-    - [ ] [Machine Learning](https://www.coursera.org/learn/machine-learning) ([Review](https://rayli.net/blog/data/coursera-machine-learning-review/), [Roadmap](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement))
+    - [ ] [Andrew Ng Machine Learning](https://www.coursera.org/learn/machine-learning) ([Review](https://rayli.net/blog/data/coursera-machine-learning-review/), [Roadmap](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement))
         - [Video Only](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
-- [ ] [Machine Learning Distilled](https://code.tutsplus.com/courses/machine-learning-distilled)
+    - [ ] [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)
 - [ ] [Coursera’s Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
     - Taught by Geoffrey Hinton, a pioneer in the field of neural networks
 - [ ] [Machine Learning - CS - Oxford University](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)

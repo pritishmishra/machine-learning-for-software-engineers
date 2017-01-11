@@ -88,8 +88,8 @@ This short section were prerequisites/interesting info I wanted to learn before 
 - [x] [The 10 Algorithms Machine Learning Engineers Need to Know](https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa#.ofc7t2965)
 - [x] [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms)
 - [x] [Top 10 data mining algorithms in plain English](https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
-- [ ] [Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/) (Good comparison matrix)
-- [ ] [Machine Learning Algorithms: A collection of minimal and clean implementations of machine learning algorithms](https://github.com/rushter/MLAlgorithms) (Code examples in Python)
+- [Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/) (Good comparison matrix)
+- [Machine Learning Algorithms: A collection of minimal and clean implementations of machine learning algorithms](https://github.com/rushter/MLAlgorithms) (Code examples in Python)
 
 ## Beginner Books
 - [Data Smart: Using Data Science to Transform Information into Insight 1st Edition](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X)
@@ -170,16 +170,16 @@ Note: As a software engineer you have a major advantage for applied ML: You know
 - [x] [mathematicalmonk's Machine Learning tutorials](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA) (Very exhaustive collection of brief sessions (160) on ML algorithms/concepts, but fairly outdated by 6 years)
 - [x] [My playlist – Top YouTube Videos on Machine Learning, Neural Network & Deep Learning](https://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)
 - [x] [16 New Must Watch Tutorials, Courses on Machine Learning](https://www.analyticsvidhya.com/blog/2016/10/16-new-must-watch-tutorials-courses-on-machine-learning/)
-- [ ] [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
 - [ ] [Learning To See](https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV)
 - [ ] [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 - [ ] [21 Deep Learning Videos, Tutorials & Courses on Youtube from 2016](https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/)
 - [ ] [30 Top Videos, Tutorials & Courses on Machine Learning & Artificial Intelligence from 2016](https://www.analyticsvidhya.com/blog/2016/12/30-top-videos-tutorials-courses-on-machine-learning-artificial-intelligence-from-2016/)
-- [ ] [Practical Machine Learning Tutorial with Python](https://www.youtube.com/watch?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&v=OGxgnH8y2NM) (Multi-part tutorial on ML using Python)
-- [ ] [Machine learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
+- [ ] :+1: [Practical Deep Learning For Coders](http://course.fast.ai/index.html)
+- [Practical Machine Learning Tutorial with Python](https://www.youtube.com/watch?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&v=OGxgnH8y2NM) (Multi-part tutorial on ML using Python)
+- [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ) (Multi-part comic-like tutorial on ML in general)
+- [Machine learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
     - [GitHub repository](https://github.com/justmarkham/scikit-learn-videos)
     - [Blog](http://blog.kaggle.com/author/kevin-markham/)
-- [ ] :+1: [Practical Deep Learning For Coders](http://course.fast.ai/index.html)
 
 ## MOOC
 - [ ] :+1: [Udacity’s Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) ([Review](http://hamelg.blogspot.com/2014/12/udacity-intro-to-machine-learning-review.html))

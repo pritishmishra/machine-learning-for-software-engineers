@@ -221,7 +221,7 @@ Note: As a software engineer you have a major advantage for applied ML: You know
 - [x] [{Machine, Deep} Learning for software engineers](https://speakerdeck.com/pmigdal/machine-deep-learning-for-software-engineers)
 - [x] [Python, Machine Learning, and Language Wars](https://sebastianraschka.com/blog/2015/why-python.html)
 - [x] [Deep Learning For Beginners](https://deeplearning4j.org/deeplearningforbeginners.html)
-- [ ] [Theano Tutorial](http://deeplearning.net/software/theano/tutorial/index.html)
+- [Theano Tutorial](http://deeplearning.net/software/theano/tutorial/index.html)
 - Machine Learning courses in Universities
     - [ ] [Stanford](http://ai.stanford.edu/courses/)
         - [Deep Learning Tutorial](http://deeplearning.stanford.edu/tutorial)

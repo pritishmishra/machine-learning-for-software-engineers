@@ -162,7 +162,7 @@ Note: As a software engineer you have a major advantage for applied ML: You know
 - [x] [Fresh Machine Learning](https://www.youtube.com/playlist?list=PL2-dafEMk2A6Kc7pV6gHH-apBFxwFjKeY) (The very same guy from above)
 - [x] [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) (Google guy)
 - [x] [Everything You Need to know about Machine Learning in 30 Minutes or Less](https://vimeo.com/43547079) (Fairly outdated by 4 years)
-- [ ] [A Friendly Introduction to Machine Learning](https://www.youtube.com/watch?v=IpGxLWOIZy4)
+- [x] [A Friendly Introduction to Machine Learning](https://www.youtube.com/watch?v=IpGxLWOIZy4)
 - [ ] [Nuts and Bolts of Applying Deep Learning - Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
 - [ ] BigML Webinar
     - [Video](https://www.youtube.com/watch?list=PL1bKyu9GtNYHcjGa6ulrvRVcm1lAB8he3&v=W62ehrnOVqo)
@@ -179,6 +179,8 @@ Note: As a software engineer you have a major advantage for applied ML: You know
 - [ ] [21 Deep Learning Videos, Tutorials & Courses on Youtube from 2016](https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/)
 - [ ] [30 Top Videos, Tutorials & Courses on Machine Learning & Artificial Intelligence from 2016](https://www.analyticsvidhya.com/blog/2016/12/30-top-videos-tutorials-courses-on-machine-learning-artificial-intelligence-from-2016/)
 - [ ] :+1: [Practical Deep Learning For Coders](http://course.fast.ai/index.html)
+
+## MOOC
 - [ ] :+1: [Udacity’s Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) ([Review](http://hamelg.blogspot.com/2014/12/udacity-intro-to-machine-learning-review.html))
 - [ ] [Udacity’s Supervised, Unsupervised & Reinforcement](https://www.udacity.com/course/machine-learning--ud262)
 - [ ] [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)
@@ -201,7 +203,7 @@ Note: As a software engineer you have a major advantage for applied ML: You know
 - [x] :-1: [Learn Machine Learning in a Single Month](https://elitedatascience.com/machine-learning-masterclass)
 - [x] [The Non-Technical Guide to Machine Learning & Artificial Intelligence](https://medium.com/@samdebrule/a-humans-guide-to-machine-learning-e179f43b67a0#.cpzf3a5c0)
 - [x] [Machine Learning for Software Engineers on Hacker News](https://news.ycombinator.com/item?id=12898718)
-- [x] [Machine Learning for Developers](https://xyclade.github.io/MachineLearning/) 
+- [x] [Machine Learning for Developers](https://xyclade.github.io/MachineLearning/)
 - [x] [Machine Learning Advice for Developers](https://dev.to/thealexlavin/machine-learning-advice-for-developers)
 - [x] [Machine Learning For Complete Beginners](http://pythonforengineers.com/machine-learning-for-complete-beginners/) (Nice live, though somewhat clunky, initial analysis of the Titanic data set using a Jupyter notebook)
 - [x] [Getting Started with Machine Learning: For absolute beginners and fifth graders](https://medium.com/@suffiyanz/getting-started-with-machine-learning-f15df1c283ea#.yjtiy7ei9)
@@ -303,6 +305,12 @@ Note: As a software engineer you have a major advantage for applied ML: You know
 - [Deep Learning News](http://news.startup.ml/)
 
 - [KDnuggets](http://www.kdnuggets.com/)
+
+## Conferences
+- Neural Information Processing Systems ([NIPS](https://nips.cc/))
+- IEEE Conference on Computational Intelligence and Games ([CIG](http://www.ieee-cig.org/))
+- IEEE International Conference on Machine Learning and Applications ([ICMLA](http://www.icmla-conference.org/))
+- International Conference on Machine Learning ([ICML](https://2017.icml.cc/))
 
 ## Interview Questions
 - [ ] [How To Prepare For A Machine Learning Interview](http://blog.udacity.com/2016/05/prepare-machine-learning-interview.html)

@@ -215,7 +215,8 @@ Note: As a software engineer you have a major advantage for applied ML: You know
     - [Video](https://www.youtube.com/watch?v=O7IezJT9uSI)
     - [Slide](https://speakerdeck.com/pycon2014/enough-machine-learning-to-make-hacker-news-readable-again-by-ned-jackson-lovely)
 - [x] :+1: [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning) (Excellent collection)
-- [ ] [{Machine, Deep} Learning for software engineers](https://speakerdeck.com/pmigdal/machine-deep-learning-for-software-engineers)
+- [x] [{Machine, Deep} Learning for software engineers](https://speakerdeck.com/pmigdal/machine-deep-learning-for-software-engineers)
+- [x] [Python, Machine Learning, and Language Wars](https://sebastianraschka.com/blog/2015/why-python.html)
 - [ ] [Theano Tutorial](http://deeplearning.net/software/theano/tutorial/index.html)
 - [ ] [Deep Learning For Beginners](https://deeplearning4j.org/deeplearningforbeginners.html)
 - Machine Learning courses in Universities

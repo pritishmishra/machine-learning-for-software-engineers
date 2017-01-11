@@ -190,7 +190,6 @@ Note: As a software engineer you have a major advantage for applied ML: You know
     - [ ] [Andrew Ng Machine Learning](https://www.coursera.org/learn/machine-learning) ([Review](https://rayli.net/blog/data/coursera-machine-learning-review/), [Roadmap](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement), [Videos Only](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW))
     - [ ] [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)
     - [ ] [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
-    - Taught by Geoffrey Hinton, a pioneer in the field of neural networks
 - [Stanford](http://ai.stanford.edu/courses/)
     - [ ] [Deep Learning Tutorial](http://deeplearning.stanford.edu/tutorial) ([Andrew Ng Complete Course Notes](http://www.holehouse.org/mlclass))
 - [ ] [Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)

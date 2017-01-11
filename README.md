@@ -190,7 +190,6 @@ Note: As a software engineer you have a major advantage for applied ML: You know
     - [Coursera Machine Learning review](https://rayli.net/blog/data/coursera-machine-learning-review/)
     - [Coursera: Machine Learning Roadmap](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement)
 - [ ] [Machine Learning Distilled](https://code.tutsplus.com/courses/machine-learning-distilled)
-- [ ] [BigML training](https://bigml.com/training)
 - [ ] [Coursera’s Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
     - Taught by Geoffrey Hinton, a pioneer in the field of neural networks
 - [ ] [Machine Learning - CS - Oxford University](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)

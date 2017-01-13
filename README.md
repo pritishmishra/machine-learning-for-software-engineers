@@ -197,6 +197,7 @@ Note: As a software engineer you have a major advantage for applied ML: You know
 - [ ] [Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) (Last updated 4 years ago)
 
 ## Resources
+- [x] [A Guide to Deep Learning by YN2](http://yerevann.com/a-guide-to-deep-learning) (Very comprehensive list of links on ML)
 - [x] [Learning Machine Learning: A beginner's journey](http://muratbuffalo.blogspot.fi/2016/12/learning-machine-learning-beginners.html)
 - [x] :+1: [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example)
 - [x] :-1: [Learn Machine Learning in a Single Month](https://elitedatascience.com/machine-learning-masterclass)

@@ -45,7 +45,7 @@ This short section were prerequisites/interesting info I wanted to learn before 
 - [x] [Machine Learning for Programmers](http://machinelearningmastery.com/machine-learning-for-programmers/)
 - [x] [Applied Machine Learning with Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
 - [ ] [Python Machine Learning Mini-Course](http://machinelearningmastery.com/python-machine-learning-mini-course/)
-- [ ] [Machine Learning Algorithms Mini-Course](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/)
+- [x] [Machine Learning Algorithms Mini-Course](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/) (Same as e-mail series sent after registration)
 
 ## Machine learning is fun
 - [x] :+1: [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.37ue6caww)
@@ -187,7 +187,7 @@ Note: As a software engineer you have a major advantage for applied ML: You know
     - [ ] [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
     - [ ] [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 - Coursera
-    - [ ] [Andrew Ng Machine Learning](https://www.coursera.org/learn/machine-learning) ([Review](https://rayli.net/blog/data/coursera-machine-learning-review/), [Roadmap](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement), [Videos Only](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW))
+    - [ ] [Andrew Ng Machine Learning](https://www.coursera.org/learn/machine-learning) ([Review](https://rayli.net/blog/data/coursera-machine-learning-review/), [Roadmap](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement), [Videos Only](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW); Last updated 2 years ago)
     - [ ] [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)
     - [ ] [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
 - [Stanford](http://ai.stanford.edu/courses/)

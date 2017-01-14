@@ -150,7 +150,8 @@ This short section were prerequisites/interesting info I wanted to learn before 
 
 Note: As a software engineer you have a major advantage for applied ML: You know how to code. AI is just Advanced Informatics. If you want to become a machine learning researcher... skip all this and start from scratch: a PhD. Else: Learn by doing. Only those who got burned by overfit, will know how to avoid it next time.
 
-## :+1: Kaggle knowledge competitions
+## Kaggle knowledge competitions
+- [ ] :+1: [Kaggle](https://www.kaggle.com/competitions)
 - [x] [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
 - [x] [How a Beginner Used Small Projects To Get Started in Machine Learning and Compete on Kaggle](http://machinelearningmastery.com/how-a-beginner-used-small-projects-to-get-started-in-machine-learning-and-compete-on-kaggle)
 - [x] [Master Kaggle By Competing Consistently](http://machinelearningmastery.com/master-kaggle-by-competing-consistently/)

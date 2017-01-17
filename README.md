@@ -44,7 +44,7 @@ This short section were prerequisites/interesting info I wanted to learn before 
 - [x] [The Machine Learning Mastery Method](http://machinelearningmastery.com/machine-learning-mastery-method/)
 - [x] [Machine Learning for Programmers](http://machinelearningmastery.com/machine-learning-for-programmers/)
 - [x] [Applied Machine Learning with Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
-- [ ] [Python Machine Learning Mini-Course](http://machinelearningmastery.com/python-machine-learning-mini-course/)
+- [x] [Python Machine Learning Mini-Course](http://machinelearningmastery.com/python-machine-learning-mini-course/)
 - [x] [Machine Learning Algorithms Mini-Course](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/) (Same as e-mail series sent after registration)
 
 ## Machine learning is fun
@@ -97,7 +97,7 @@ This short section were prerequisites/interesting info I wanted to learn before 
 - [Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die](https://www.amazon.com/Predictive-Analytics-Power-Predict-Click/dp/1118356853)
 
 ## Practical Books
-- [ ] :+1: [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0)
+- [ ] :running: [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0)
     - [GitHub repository](https://github.com/rasbt/python-machine-learning-book)
 - [Machine Learning for Hackers](https://www.amazon.com/Machine-Learning-Hackers-Drew-Conway/dp/1449303714)
     - [GitHub repository(R)](https://github.com/johnmyleswhite/ML_for_Hackers)
@@ -151,7 +151,7 @@ This short section were prerequisites/interesting info I wanted to learn before 
 Note: As a software engineer you have a major advantage for applied ML: You know how to code. AI is just Advanced Informatics. If you want to become a machine learning researcher... skip all this and start from scratch: a PhD. Else: Learn by doing. Only those who got burned by overfit, will know how to avoid it next time.
 
 ## Kaggle knowledge competitions
-- [ ] :+1: [Kaggle](https://www.kaggle.com/competitions)
+- [ ] :bookmark: [Kaggle](https://www.kaggle.com/competitions)
 - [x] [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
 - [x] [How a Beginner Used Small Projects To Get Started in Machine Learning and Compete on Kaggle](http://machinelearningmastery.com/how-a-beginner-used-small-projects-to-get-started-in-machine-learning-and-compete-on-kaggle)
 - [x] [Master Kaggle By Competing Consistently](http://machinelearningmastery.com/master-kaggle-by-competing-consistently/)
@@ -174,7 +174,7 @@ Note: As a software engineer you have a major advantage for applied ML: You know
 - [x] [21 Deep Learning Videos, Tutorials & Courses on Youtube from 2016](https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/)
 - [x] [30 Top Videos, Tutorials & Courses on Machine Learning & Artificial Intelligence from 2016](https://www.analyticsvidhya.com/blog/2016/12/30-top-videos-tutorials-courses-on-machine-learning-artificial-intelligence-from-2016/)
 - [x] [Learning To See](https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV) (Well done brief series on computer vision that actually only shows that it's hard, but doesn't show how to do it)
-- [ ] :+1: [Practical Deep Learning For Coders](http://course.fast.ai/index.html)
+- [ ] :running: [Practical Deep Learning For Coders](http://course.fast.ai/index.html)
 - [Practical Machine Learning Tutorial with Python](https://www.youtube.com/watch?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&v=OGxgnH8y2NM) (Multi-part tutorial on ML using Python)
 - [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ) (Multi-part comic-like tutorial on ML in general)
 - [Machine learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
@@ -183,7 +183,7 @@ Note: As a software engineer you have a major advantage for applied ML: You know
 
 ## MOOC
 - Udacity
-    - [ ] :+1: [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) ([Review](http://hamelg.blogspot.com/2014/12/udacity-intro-to-machine-learning-review.html))
+    - [ ] :running: [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) ([Review](http://hamelg.blogspot.com/2014/12/udacity-intro-to-machine-learning-review.html))
     - [ ] [Supervised, Unsupervised & Reinforcement](https://www.udacity.com/course/machine-learning--ud262)
     - [ ] [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
     - [ ] [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)

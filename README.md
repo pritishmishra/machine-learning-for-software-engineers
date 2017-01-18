@@ -229,16 +229,16 @@ Note: As a software engineer you have a major advantage for applied ML: You know
 - [CreativeAi's Machine Learning](http://www.creativeai.net/?cat%5B0%5D=machine-learning)
 - [Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 - Libraries
-    - [TensorFlow](https://www.tensorflow.org/tutorials)
-    - [Keras](https://keras.io)
-    - [Theano](http://deeplearning.net/software/theano/tutorial)
-    - [SciKit-Learn](http://scikit-learn.org/stable/documentation.html) ML algorithms for preprocessing, model selection, and of course classification/regression/clustering
-    - [Pandas](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
-    - [NumPy](https://docs.scipy.org/doc/numpy/reference) Everything vectors and matrices
-    - [SciPy](https://docs.scipy.org/doc/scipy/reference) Interpolation, transformation,... , and statistics functions on top of NumPy
-    - [SymPy](http://docs.sympy.org/latest) Do symbolic computations
-    - [MatPlotLib](http://matplotlib.org) Visualize "stuff" like NumPy vectors and matrices
-    - [Gephi](https://gephi.org/users) Visualize large networks graphs
+    - [TensorFlow](https://www.tensorflow.org/tutorials) ()
+    - [Keras](https://keras.io) ()
+    - [Theano](http://deeplearning.net/software/theano/tutorial) ()
+    - [SciKit-Learn](http://scikit-learn.org/stable/documentation.html) (ML algorithms for preprocessing, model selection, and of course classification, regression, clustering,...)
+    - [Pandas](http://pandas.pydata.org/pandas-docs/stable/tutorials.html) ()
+    - [NumPy](https://docs.scipy.org/doc/numpy/reference) (Everything vectors and matrices)
+    - [SciPy](https://docs.scipy.org/doc/scipy/reference) (Integration, optimization, interpolation, transformation, and statistics functions on top of NumPy)
+    - [SymPy](http://docs.sympy.org/latest) (Do all sorts of symbolic computations)
+    - [MatPlotLib](http://matplotlib.org) (Visualize "stuff" like NumPy vectors and matrices)
+    - [Gephi](https://gephi.org/users) (Visualize large networks graphs)
 - Flipboard Topics
     - [Machine learning](https://flipboard.com/topic/machinelearning)
     - [Deep learning](https://flipboard.com/topic/deeplearning)

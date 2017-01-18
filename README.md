@@ -236,6 +236,7 @@ Note: As a software engineer you have a major advantage for applied ML: You know
     - [NumPy](https://docs.scipy.org/doc/numpy/reference)
     - [SciPy](https://docs.scipy.org/doc/scipy/reference)
     - [SymPy](http://docs.sympy.org/latest)
+    - [Gephi](https://gephi.org/users)
     - [MatPlotLib](http://matplotlib.org)
 - Flipboard Topics
     - [Machine learning](https://flipboard.com/topic/machinelearning)

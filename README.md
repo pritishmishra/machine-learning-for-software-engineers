@@ -232,7 +232,7 @@ Note: As a software engineer you have a major advantage for applied ML: You know
     - [TensorFlow](https://www.tensorflow.org/tutorials)
     - [Keras](https://keras.io)
     - [Theano](http://deeplearning.net/software/theano/tutorial)
-    - [Pandas](http://pandas.pydata.org/pandas-docs/stable)
+    - [Pandas](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
     - [NumPy](https://docs.scipy.org/doc/numpy/reference)
     - [SciPy](https://docs.scipy.org/doc/scipy/reference)
     - [SymPy](http://docs.sympy.org/latest)

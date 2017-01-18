@@ -233,7 +233,7 @@ Note: As a software engineer you have a major advantage for applied ML: You know
     - [Keras](https://keras.io) ()
     - [Theano](http://deeplearning.net/software/theano/tutorial) ()
     - [SciKit-Learn](http://scikit-learn.org/stable/documentation.html) (ML algorithms for preprocessing, model selection, and of course classification, regression, clustering,...)
-    - [Pandas](http://pandas.pydata.org/pandas-docs/stable/tutorials.html) ()
+    - [Pandas](http://pandas.pydata.org/pandas-docs/stable/tutorials.html) (Vastly duplicative of NumPy, but handy import/export functions)
     - [NumPy](https://docs.scipy.org/doc/numpy/reference) (Everything vectors and matrices)
     - [SciPy](https://docs.scipy.org/doc/scipy/reference) (Integration, optimization, interpolation, transformation, and statistics functions on top of NumPy)
     - [SymPy](http://docs.sympy.org/latest) (Do all sorts of symbolic computations like [Wolfram Alpha](https://www.wolframalpha.com) does)

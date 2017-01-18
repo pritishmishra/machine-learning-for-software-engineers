@@ -233,8 +233,8 @@ Note: As a software engineer you have a major advantage for applied ML: You know
     - [Keras](https://keras.io)
     - [Theano](http://deeplearning.net/software/theano/tutorial)
     - [Pandas](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
-    - [NumPy](https://docs.scipy.org/doc/numpy/reference)
-    - [SciPy](https://docs.scipy.org/doc/scipy/reference)
+    - [NumPy](https://docs.scipy.org/doc/numpy/reference) Everything vectors and matrices
+    - [SciPy](https://docs.scipy.org/doc/scipy/reference) Interpolation, transformation,... , and statistics functions on top of NumPy
     - [SymPy](http://docs.sympy.org/latest)
     - [Gephi](https://gephi.org/users)
     - [MatPlotLib](http://matplotlib.org)

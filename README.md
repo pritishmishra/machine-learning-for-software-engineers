@@ -229,9 +229,9 @@ Note: As a software engineer you have a major advantage for applied ML: You know
 - [CreativeAi's Machine Learning](http://www.creativeai.net/?cat%5B0%5D=machine-learning)
 - [Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 - Libraries
-    - [TensorFlow](https://www.tensorflow.org/tutorials) ()
-    - [Keras](https://keras.io) ()
-    - [Theano](http://deeplearning.net/software/theano/tutorial) (Low-level lib to evaluate mathematical functions blazingly fast - also on GPUs - used by TensorFlow or SymPy)
+    - [TensorFlow](https://www.tensorflow.org/tutorials) (Similar to Theano, huge ML library, but supporting more than just deep learning, however still in its infancy)
+    - [Keras](https://keras.io) (Beautiful interface to the not always intuituive ways of grand-daddy Theano)
+    - [Theano](http://deeplearning.net/software/theano/tutorial) (Evaluate mathematical functions blazingly fast - also on GPUs)
     - [SciKit-Learn](http://scikit-learn.org/stable/documentation.html) (ML algorithms for preprocessing, model selection, and of course classification, regression, clustering,...)
     - [Pandas](http://pandas.pydata.org/pandas-docs/stable/tutorials.html) (Vastly duplicative of NumPy, but handy import/export functions)
     - [NumPy](https://docs.scipy.org/doc/numpy/reference) (Everything vectors and matrices)

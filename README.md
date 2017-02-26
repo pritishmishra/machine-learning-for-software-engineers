@@ -90,6 +90,7 @@ This short section were prerequisites/interesting info I wanted to learn before 
 - [x] [Top 10 data mining algorithms in plain English](https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 - [Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/) (Good comparison matrix)
 - [Machine Learning Algorithms: A collection of minimal and clean implementations of machine learning algorithms](https://github.com/rushter/MLAlgorithms) (Code examples in Python)
+- [ML From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 
 ## Beginner Books
 - [Data Smart: Using Data Science to Transform Information into Insight 1st Edition](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X)

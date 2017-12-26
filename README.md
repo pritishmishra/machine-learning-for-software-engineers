@@ -37,7 +37,11 @@ This short section were prerequisites/interesting info I wanted to learn before 
   - Takeaway 6: **[Metacademy](https://metacademy.org)**: A note about this website. Awesome collection of lectures and a treasure trove of concepts. Most of the concepts/lectures are related to ML.
 
 ## Machine learning overview
-- [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [x] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+  - Done
+  - Excellent visualization
+  - This was my resource on ML learning. It introduces and walks through a dataset using classification techiniques.
+  - So, gives a very good overview.
 - :+1: [A Visual and Interactive Guide to the Basics of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks)
 - [A Gentle Guide to Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
 - [Introduction to Machine Learning for Developers](http://blog.algorithmia.com/introduction-machine-learning-developers/)

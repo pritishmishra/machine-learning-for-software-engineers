@@ -24,9 +24,9 @@ from public sources and replacing the online course videos over time. I like usi
 
 This short section were prerequisites/interesting info I wanted to learn before getting started on the daily plan.
 
-- [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
+- [x] [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1) | Done | A bit too random now, as there are many answers on this thread 
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
-- [Don’t Break The Chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
+- [x] [Don’t Break The Chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret) | Done | Amazingly simple, yet powerful technique, will be incorporating this as my routine.
 - [How to learn on your own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
 
 ## Machine learning overview

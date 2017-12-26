@@ -42,12 +42,15 @@ This short section were prerequisites/interesting info I wanted to learn before 
   - Excellent visualization
   - This was my resource on ML learning. It introduces and walks through a dataset using classification techiniques.
   - So, gives a very good overview.
-- :+1: [A Visual and Interactive Guide to the Basics of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks)
-  - 
+- [x]:+1: [A Visual and Interactive Guide to the Basics of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks)
+  - Done
   - An excellent introduction to neural networks
   - Introduces concepts like weight, bias, and gradient descent model
   - Guides how a simple function can be defined for the neutral network.
+  - Understanding 3 important concepts: **Feature**, **Weight** and **Bias**
+  - Gives a good intro to understand how softmax function is applied.
   - Dig Deeper: Find how to calculate new weights and bias in first few lectures of [Coursera's Machine Learning course](https://www.coursera.org/learn/machine-learning)
+  - Dig Deeper: [Spotmax function](https://rasbt.github.io/mlxtend/user_guide/classifier/SoftmaxRegression/) -> Very mathematical article. For now, I am just understanding the basic concept and applications of it
 - [A Gentle Guide to Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
 - [Introduction to Machine Learning for Developers](http://blog.algorithmia.com/introduction-machine-learning-developers/)
 - [Machine Learning basics for a newbie](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)

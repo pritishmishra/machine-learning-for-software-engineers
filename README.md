@@ -58,6 +58,9 @@ This short section were prerequisites/interesting info I wanted to learn before 
 - [MOOCs for Machine Learing - Medium](https://medium.com/@amarbudhiraja/moocs-for-machine-learning-5a2f2c6cdcfe)
 - [Top Machine Learing MOOCs - Kdnuggets ](https://www.kdnuggets.com/2016/07/top-machine-learning-moocs-online-lectures.html)
 
+## Metacademy:
+- [Metacademy Roadmaps](https://metacademy.org/roadmaps/)
+
 ## Machine learning is fun
 - :+1: [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.37ue6caww)
 - :+1: [Part 2: Using Machine Learning to generate Super Mario Maker levels](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.kh7qgvp1b)

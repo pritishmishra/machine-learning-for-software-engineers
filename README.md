@@ -42,7 +42,7 @@ This short section were prerequisites/interesting info I wanted to learn before 
   - Excellent visualization
   - This was my resource on ML learning. It introduces and walks through a dataset using classification techiniques.
   - So, gives a very good overview.
-- [x]:+1: [A Visual and Interactive Guide to the Basics of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks)
+- [x] :+1: [A Visual and Interactive Guide to the Basics of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks)
   - Done
   - An excellent introduction to neural networks
   - Introduces concepts like weight, bias, and gradient descent model

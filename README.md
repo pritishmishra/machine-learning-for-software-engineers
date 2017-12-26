@@ -27,7 +27,14 @@ This short section were prerequisites/interesting info I wanted to learn before 
 - [x] [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1) | Done | A bit too random now, as there are many answers on this thread 
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [x] [Don’t Break The Chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret) | Done | Amazingly simple, yet powerful technique, will be incorporating this as my routine.
-- [How to learn on your own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
+- [How to learn on your own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own):
+  - Done
+  - Takeaway 1: Learnt about MOOCs from this article. Added a few list of MOOCs for ML here.
+  - Takeaway 2: Very well guided about research papers. Go through this once, before going for research papers on ML.
+  - Takeaway 3: Parallel Reading? Seems a bit tough, but can give it a try!
+  - Takeaway 4: A good introductory note about maths with some useful links. If you are into some serious maths, do check this out!
+  - Takeaway 5: Again. Some great links for memory improvement. Should be a good leisure read.
+  - Takeaway 6: **[Metacademy](https://metacademy.org)**: A note about this website. Awesome collection of lectures and a treasure trove of concepts. Most of the concepts/lectures are related to ML.
 
 ## Machine learning overview
 - [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
